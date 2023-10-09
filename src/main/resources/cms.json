@@ -1,0 +1,20 @@
+{
+  "programs": [
+
+    {
+      "program name": "Medicare Advantage Rewards",
+      "keywords": ["Medicare Advantage Rewards", "Medicare Rewards", "Advantage Rewards", "Medicare"],
+      "program description": "Medicare Advantage Rewards is virtual medical"
+    },
+    {
+      "program name": "WebMD",
+      "keywords": ["WebMD", "WebMD", "MDWeb", "Web"],
+      "program description": "WedMD is user-friendly medical"
+    },
+    {
+      "program name": "Blue365",
+      "keywords": ["Blue365", "Blue", "365", "blue"],
+      "program description": "Blue365 is bluecross medical"
+    }
+  ]
+}
